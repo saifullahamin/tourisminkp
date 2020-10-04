@@ -1,0 +1,158 @@
+h1{
+	  text-align: center;
+	  font-family: Georgia, serif; 
+}
+h2{
+	  text-align: center;
+	  font-family: Georgia, serif;
+}
+
+h3{
+    text-align: center;
+    font-family: Georgia, serif;
+
+}
+.para{
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 19.5px; 
+    padding-left: 50px; 
+    padding-right: 50px;
+}
+
+.image{
+    width: 32%
+}
+
+.topleft{
+    display: block;
+    padding: 22px 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: Georgia, serif;
+}
+
+.unord {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  	background-color: black;
+    position: fixed;
+    top: 0;
+    width: 98.86%;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Georgia, serif;
+}
+
+.list {
+  
+  	border-right:1px solid #bbb;
+
+}
+
+.list a {
+  	display: block;
+  	padding: 22px 20px;
+  	color: white;
+  	text-align: center;
+  	text-decoration: none;
+}
+
+.list a:hover{
+  	background-color: #4d4d4d;
+}
+
+
+#weather{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    font-family: Georgia, serif; 
+    font-size: 17.5px;
+    font-weight: bold;
+}
+
+.weather1{
+    border-right:1px solid #bbb;
+}
+
+
+.weather1 a {
+    display: block;
+    padding: 22px 20px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+.weather1 a:hover{
+    background-color: #e6e6e6
+}
+
+#maps{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    font-family: Georgia, serif; 
+    font-size: 17.5px;
+    font-weight: bold;
+}
+
+.maps1{
+    border-right:1px solid #bbb;
+}
+
+
+.maps1 a {
+    display: block;
+    padding: 22px 20px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+
+}
+.maps1 a:hover{
+    background-color: #e6e6e6
+}
+
+#topdestinations{
+	  background-image: url(topdestinations.jpg);
+}
+#weatherupdates{
+	  background-image: url(weatherupdates.jpg);
+}
+#mapback{
+	  background-image: url(mapback.jpg);
+}
+#naranback{
+	  background-image: url(naranback.jpg);
+}
+#swatback{
+    background-image: url(swatback.jpg);
+}
+#dirback{
+    background-image: url(dirback.jpeg);
+}
+#galiyatback{
+    background-image: url(galiyatback.jpg);
+}
+#chitralback{
+    background-image: url(chitralback.jpg);
+}
+#kpk{
+    background-image: url(kpk.jpg);
+}
+#destinationsback{
+    background-image: url(destinationsback.jpg);
+}
+#mediaback{
+    background-image: url(mediaback.jpg);
+}
+#contactback{
+    background-image: url(contactback.jpg);
+}
